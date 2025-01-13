@@ -96,7 +96,7 @@
 <body>
   <div class="about-us-section">
     <div class="about-us-image">
-      <img src="https://via.placeholder.com/300x300" alt="About Us">
+      <img src="https://news.cgtn.com/news/2024-09-27/Who-is-Anura-Kumara-Dissanayake-Sri-Lanka-s-new-president--1xdw8ZzZ8Os/img/7f15927498ec4e6ab8472e18904a827a/7f15927498ec4e6ab8472e18904a827a.jpeg" alt="About Us">
     </div>
     <div class="about-us-content">
       <h2>About Us</h2>
